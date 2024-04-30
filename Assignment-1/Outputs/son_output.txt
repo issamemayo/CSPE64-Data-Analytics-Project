@@ -1,0 +1,9 @@
+Number of Baskets: 610
+Support Threshold: 300
+
+Candidate Itemsets: 
+('296'),('318'),('356')
+
+Frequent Itemsets: 
+('296'),('318'),('356')
+

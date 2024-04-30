@@ -1,0 +1,13 @@
+Number of Baskets: 19
+Support Threshold: 10
+
+Candidate Itemsets: 
+('101'),('97'),('98'),('99')
+
+('97', '99')
+
+Frequent Itemsets: 
+('97'),('98'),('99')
+
+('97', '99')
+

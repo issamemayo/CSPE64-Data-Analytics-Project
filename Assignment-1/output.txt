@@ -1,0 +1,5 @@
+Duration: 0.019431352615356445
+No. of Iterations : 1
+Fraction of transactions used : 0.5
+Support : 10
+Confidence : 0.8
